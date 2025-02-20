@@ -1,5 +1,19 @@
 # Requisitos e Arquiteturas de Software
 
+## Editar
+![edit](https://github.com/RafaGomes1/RAS/blob/main/Fase3/images/edit.png?raw=true)
+
+## Menu Principal
+![main](https://github.com/RafaGomes1/RAS/blob/main/Fase3/images/main.png?raw=true)
+
+## Login
+![login](https://github.com/RafaGomes1/RAS/blob/main/Fase3/images/login.png?raw=true)
+
+## Criar Conta
+![register](https://github.com/RafaGomes1/RAS/blob/main/Fase3/images/register.png?raw=true)
+
+---
+
 <h3 align="center">🚀 Colaboradores 🚀</h3>
 
 <div align="center">

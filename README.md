@@ -25,3 +25,10 @@
   
 | [Ricardo Silva](https://github.com/RSs22) | [Rui Lopes](https://github.com/ruilopesm) |
 </div>
+
+---
+
+<h3 align="center"> 🎖️ TP1 - 15.85 / 20 🎖️ </h3>
+<h3 align="center"> 🎖️ TP2 - 16.85 / 20 🎖️ </h3>
+<h3 align="center"> 🎖️ TP3 - 17.67 / 20 🎖️ </h3>
+
